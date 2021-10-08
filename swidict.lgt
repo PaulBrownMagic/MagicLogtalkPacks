@@ -1,4 +1,4 @@
-:- object(lflat_pack,
+:- object(swidict_pack,
 	implements(pack_protocol)).
 
 	:- info([
