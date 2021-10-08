@@ -1,0 +1,2 @@
+# MagicLogtalkPacks
+Magic Logtalk Packs
