@@ -19,8 +19,8 @@
 	version(
 		1:1:0,
 		stable,
-		'https://github.com/PaulBrownMagic/swidict/archive/refs/heads/master.zip',
-		sha256 - 'ea695b1037cd9f79f2e3f478b3c76f55413d47bd128639fd656ed27a45ead761',
+		'https://github.com/PaulBrownMagic/swidict/archive/refs/tags/v1.1.0.tar.gz',
+		sha256 - '15442749974074101b0da52376295df8e732c799e790715040b414bf4a065175',
 		[logtalk >= 3:36:0],
 		[swi]  % all (no list) for all Prolog backends, this one [swi] only runs on SWI-Prolog
 	).
