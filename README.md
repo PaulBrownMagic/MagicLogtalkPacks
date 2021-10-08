@@ -1,2 +1,5 @@
 # MagicLogtalkPacks
-Magic Logtalk Packs
+
+## Included Packs:
+
+- swidict - SWI-Prolog Dictionaries with Logtalk dictionary protocols
