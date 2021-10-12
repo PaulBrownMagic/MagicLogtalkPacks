@@ -12,7 +12,7 @@
 
 	description('Unofficial Logtalk packs registry with magic packs!').
 
-	home_page('https://github.com/PaulBrownMagic/MagicLogtalkPacks').
+	home('https://github.com/PaulBrownMagic/MagicLogtalkPacks').
 
 	clone('https://github.com/PaulBrownMagic/MagicLogtalkPacks.git').
 
