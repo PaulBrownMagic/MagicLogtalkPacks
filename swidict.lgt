@@ -14,7 +14,7 @@
 
 	license('Apache-2.0').
 
-	home_page('https://github.com/PaulBrownMagic/swidict').
+	home('https://github.com/PaulBrownMagic/swidict').
 
 	version(
 		1:1:1,
